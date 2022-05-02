@@ -1,2 +1,2 @@
 # PHP-Ipgrabber
-This is not optimal PHP grabber but it'll get around the basics of most stuff, it's more usable than you would expect.
+this will not work on github pages, please run an apache server or sql server to run PHP.
